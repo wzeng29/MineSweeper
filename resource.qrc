@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/blocks.bmp</file>
+        <file>res/frame.bmp</file>
+        <file>res/bomb.png</file>
+        <file>res/mine_flag.png</file>
+    </qresource>
+</RCC>
